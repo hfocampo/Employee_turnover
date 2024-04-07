@@ -1,7 +1,3 @@
-#sklearn
-#pandas
-#streamlit
-#pickle
 altair==5.2.0
 annotated-types==0.6.0
 appdirs==1.4.4
