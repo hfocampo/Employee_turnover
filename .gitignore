@@ -1,3 +1,4 @@
-.env
-/venv
-.venv/
+rotacion-env
+.rotacion-env
+/rotacion-venv
+.rotacion-venv/
