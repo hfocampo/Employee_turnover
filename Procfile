@@ -1,0 +1,1 @@
+web: sh setup.sh && atreamlit run rotation_web.py
