@@ -2,6 +2,3 @@ rotacion-env
 .rotacion-env
 /rotacion-venv
 .rotacion-venv/
-.env
-/venv
-.venv/
