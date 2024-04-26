@@ -20,10 +20,10 @@ packaging==23.2
 pandas
 pillow==10.3.0
 protobuf==4.25.3
+python==3.9
 pyarrow==15.0.2
 pydeck==0.8.1b0
 Pygments==2.17.2
-python
 pytz==2024.1
 referencing==0.34.0
 requests==2.31.0
